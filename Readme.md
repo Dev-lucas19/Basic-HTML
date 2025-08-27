@@ -12,6 +12,10 @@ Repositório dedicado aos códigos desenvolvidos no curso **Formação HTML Web 
 
 ---
 
+Agradeço à plataforma DIO.me por proporcionar um ambiente de estudo com trilha estruturada, desafios práticos e projetos aplicados.
+
+---
+
 ## Estrutura do Repositório
 
 ```text
@@ -24,7 +28,3 @@ Basic-HTML/
 │       ├── www.png
 │       └── game-of-thrones.png
 └── README.md
-
----
-
-Agradeço à plataforma DIO.me por proporcionar um ambiente de estudo com trilha estruturada, desafios práticos e projetos aplicados.
